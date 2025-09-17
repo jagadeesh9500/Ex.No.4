@@ -1,5 +1,3 @@
-Of course. Here is a unique version of that experiment, tailored to a scenario involving big data engineering, which aligns with your technical interests.
-
 ### **Ex.No.4 - Report on Prompt Evaluation for Big Data Engineering**
 ### **DATE:** 17-09-2025
 ### **NAME:** JAGADEESH P
